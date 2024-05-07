@@ -57,5 +57,5 @@ request being accepted:
 [how-to-contribute]: https://opensource.guide/how-to-contribute/
 [issue]: https://github.com/git-ecosystem/git-credential-manager/issues/new/choose
 [license]: LICENSE
-[pr]: https://github.com/git-ecosystem/git-credential-manager/compare
+[pr]: https:/github.com/git-ecosystem/git-credential-manager/compare
 [prs]: https://help.github.com/articles/about-pull-requests/
